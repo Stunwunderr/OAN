@@ -85,7 +85,7 @@ h1, h2, h3, h4, h5, h6 {
 #header .logo {
   overflow: hidden;
   padding: 16px 30px 12px 30px;
-  background: #009970;
+  background: #6ca454;
 }
 #header .logo h1 {
   font-size: 26px;
@@ -110,7 +110,7 @@ h1, h2, h3, h4, h5, h6 {
     background: #6ca454;
   }
   #header.header-scrolled, #header .header-container {
-    background: ##6ca454;
+    background: #6ca454;
   }
   #header .logo {
     padding-left: 0;
@@ -159,7 +159,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-left: 5px;
 }
 .navbar a:hover, .navbar .active, .navbar .active:focus, .navbar li:hover > a {
-  color: ##6ca454;
+  color: #6ca454;
 }
 .navbar .getstarted, .navbar .getstarted:focus {
   background: #6ca454;
