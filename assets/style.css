@@ -422,6 +422,9 @@ section {
 .section-title p {
   margin-bottom: 0;
 }
+.product {
+  margin-top: 50px;
+}
 
 /*--------------------------------------------------------------
 # Clients
