@@ -1126,11 +1126,11 @@ section {
 #footer {
   color: #444444;
   font-size: 14px;
-  background: #26331b;
+  background: white;
 }
 #footer .footer-top {
   padding: 60px 0 30px 0;
-  background: #f9f8f9;
+  background: #26331b;
 }
 #footer .footer-top .footer-contact {
   margin-bottom: 30px;
