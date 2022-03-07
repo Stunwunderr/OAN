@@ -1182,7 +1182,7 @@ section {
   padding-top: 0;
 }
 #footer .footer-top .footer-links ul a {
-  color: #777777;
+  color: white;
   transition: 0.3s;
   display: inline-block;
   line-height: 1;
@@ -1193,6 +1193,7 @@ section {
 }
 #footer .footer-newsletter {
   font-size: 15px;
+  color: white;
 }
 #footer .footer-newsletter h4 {
   font-size: 16px;
